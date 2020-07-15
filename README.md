@@ -5,3 +5,8 @@
 * __개발 목적__ : 관리자를 위한 가중치 변경 및 통계자료를 제공하여 피씨너선발을 수월하게 함
 
 * __문서__ : https://drive.google.com/drive/folders/1n4MQP99ywrkIbEQ01dVcb73cNbB2-rg4?usp=sharing
+
+* __개발 전체 일정__ : https://docs.google.com/spreadsheets/d/14QwbKzslxXSXaPgAaTaIp7XNEV-O7GXJHux6eg3Aqaw/edit?usp=sharing
+
+* __모듈 단위 일정__ : https://trello.com/b/WjaBnFJV
+
